@@ -165,7 +165,7 @@ function moduleProject1() {
   document.querySelector(".friends").tabIndex = 4;
 
   // a better way to do the above involves adding something like the below to 
-  // the forEach loop in task 1:
+  // the forEach loop in task 1 in addition to adding "i" to the function portion of the forEach:
   // div.setAttribute("tabIndex", i + 1)
 
   // 👆 WORK WORK ABOVE THIS LINE 👆
